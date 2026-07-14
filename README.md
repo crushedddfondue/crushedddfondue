@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm crushedddfondue 👋</h1>
+<h1 align="center">Hi, I'm crushedddfondue (Aattreya) 👋</h1>
 <h3 align="center">Building a world model for game development</h3>
 
 <br/>
 
 ### 🎓 Who am I
 - Fresh(er) graduate — convocation coming up in about a month 🎉
-- Founder of **[Your Startup Name]**, currently in the **ideation stage**
+- Founder of **Phaeron Labs**, currently in the **building stage**
 - Focused on generative world models applied to game development
 
 ### 🚧 What I'm working on
