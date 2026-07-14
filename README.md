@@ -40,8 +40,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
-- **ML / Research:** PyTorch, JAX
-- **Software Engineering:** JavaScript, TypeScript (proficient), Java, C++
+- **ML / Research:** PyTorch, JAX, SciPy, LaTeX
+- **Software Engineering:** JavaScript, TypeScript (proficient), Java, C++, Python
 
 ### 📫 How to reach me
 <p>
